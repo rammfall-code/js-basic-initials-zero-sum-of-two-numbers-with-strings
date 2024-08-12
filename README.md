@@ -1,8 +1,7 @@
 # template-vanilla
 
-## Text
-
-## We have a problem with loading script and access to html element due loading. Please, fix the place of script in html file
+## Get from user two numbers, and calculate sum of them and inform user about result
+- But need inform user with result in format ```{{first_number} + {{second_number}} = {{sum}}``` where ```first_number``` is first number from user prompt, ```second_number``` - second number from user prompt, ```sum``` - result (sum) of this two numbers. The result string should be without ```{{}}``` symbols
 
 ## Criteria:
 
